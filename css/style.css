@@ -97,6 +97,7 @@ ul {
 	float: left;
 	box-sizing: border-box;
 	padding: 5px 5px;
+	height: 400px;
 }
 .item img{
 	width: 100%;
