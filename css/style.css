@@ -182,6 +182,10 @@ border-bottom-right-radius: 180px;
 border-top-right-radius: 180px;
 }
 
+.imgnews {
+	height: 400px;
+}
+
 .item {
 	background-color: #7F7E7E;;
 	border: 1px solid #fff;
