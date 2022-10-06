@@ -185,7 +185,7 @@ border-top-right-radius: 180px;
 
 .item {
 	background-color: #7F7E7E;;
-
+	border: 1px solid #fff;
 }
 
 /*body {
