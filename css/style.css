@@ -5,6 +5,7 @@
 * {
 	padding: 0;
 	margin: 0;
+	box-sizing: border-box;
 }
 body {
 	background-color: black;
@@ -182,7 +183,8 @@ border-top-right-radius: 180px;
 }
 
 .item {
-	/*background-color: #fff;*/
+	background-color: #7F7E7E;;
+
 }
 
 /*body {
